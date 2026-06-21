@@ -1,0 +1,6 @@
+barbot.db
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
